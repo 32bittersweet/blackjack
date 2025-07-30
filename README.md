@@ -1,3 +1,3 @@
 # blackjack
-32bittersweet.github.io
+https://32bittersweet.github.io/blackjack
 A simple html blackjack game featuring a betting system.
